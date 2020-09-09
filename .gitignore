@@ -1,0 +1,8 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+env
+myshop/myshop/settings.py
+bookmarks/cert.crt
+bookmarks/cert.key
